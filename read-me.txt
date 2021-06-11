@@ -1,0 +1,16 @@
+Admin infos :
+email :admin@example.com
+password: 1234
+
+User infos :
+email :user@example.com
+password: 1234
+
+to excute project : 
+1-open vs code
+2-select project folder 
+3-open terminal 
+4-write : npm start and press Enter 
+5-open new terminal tab 
+6-write : cd frontend and press Enter
+7-write : npm start and press Enter
