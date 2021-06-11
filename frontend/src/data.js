@@ -1,7 +1,6 @@
 const data = {
     products: [
         {
-            _id:'1',
             name:'Galaxy S21 Ultra',
             category: 'Phones',
             image: '/images/galaxys21ultra.jpg',
@@ -13,7 +12,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id:'2',
             name:'Iphone 12 pro',
             category: 'Phones',
             image: '/images/iphon12pro.jpg',
@@ -25,7 +23,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id:'3',
             name:'Mi 11 Ultra',
             category: 'Phones',
             image: '/images/mi11ultra.jpg',
@@ -37,7 +34,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id:'4',
             name:'Galaxy S21+',
             category: 'Phones',
             image: '/images/galaxys21plus.jpg',
@@ -49,7 +45,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id:'5',
             name:'Mate 40 pro',
             category: 'Phones',
             image: '/images/mate40pro.jpg',
@@ -61,7 +56,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id:'6',
             name:'Rog phone 5 pro',
             category: 'Phones',
             image: '/images/rogphone5pro.jpg',
